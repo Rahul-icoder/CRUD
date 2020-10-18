@@ -1,6 +1,6 @@
 # CRUD
 
-![name-of-you-image]()
+![name-of-you-image](https://raw.githubusercontent.com/Rahul-icoder/CRUD/main/Crud_shot.png)
 
 
 
